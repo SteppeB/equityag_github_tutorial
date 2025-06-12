@@ -1,2 +1,2 @@
-# equityag_github_tutorial
+# EquityAg Github workflow tutorial
 Repo for a simple introduction to Github
